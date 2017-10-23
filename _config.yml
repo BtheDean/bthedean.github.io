@@ -1,5 +1,21 @@
-title: Blogging as Brian
-description: Insert any very witty phrase right here...
-show_downloads: false
+# Site Settings
+title:               Blogging as Brian
+description:         Insert any very witty phrase right here...
+show_downloads:      false
 google_analytics:
+
+# About / Contact
+author:
+  name:              Brian Dean
+  url:               https://twitter.com/BtheDean
+  email:             bthedean@protonmail.com
+  github:            BtheDean
+  twitter:           BtheDean
+
+# Build Settings
 theme: jekyll-theme-cayman
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+github: [metadata]
