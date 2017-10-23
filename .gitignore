@@ -6,7 +6,6 @@
 .Trashes
 .bundle/
 Gemfile.lock
-jekyll-theme-cayman.gemspec
 script/
 _site/
 _drafts/
