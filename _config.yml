@@ -1,7 +1,22 @@
 # Site Settings
-title:               Blogging as Brian
-description:         Insert any very witty phrase right here...
-show_downloads:      false
-#google_analytics:
+title:              "Blogging as Brian"
+tagline:            "Insert any very witty phrase right here..."
+site_name:          "bthedean.github.io"
+project_url:        "https://github.com/BtheDean/bthedean.github.io"
+baseurl:            ""
+google_analytics:
 
-theme: jekyll-theme-cayman
+# About/contact
+author:
+  name:       Brian Dean
+  github:     BtheDean
+  url:        https://github.com/BtheDean
+  email:      bthedean@protonmail.com
+  twitter:    BtheDean
+
+# Gems
+plugins:
+  - jekyll-seo-tag
+
+#Others
+markdown: kramdown

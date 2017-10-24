@@ -9,4 +9,4 @@ Gemfile.lock
 script/
 _site/
 _drafts/
-jekyll-theme-cayman.gemspec
+jekyll-cayman-theme.gemspec
