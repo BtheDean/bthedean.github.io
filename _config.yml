@@ -14,5 +14,9 @@ google_analytics:
 
 markdown: kramdown
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
 # Build Settings
 theme: jekyll-theme-cayman
