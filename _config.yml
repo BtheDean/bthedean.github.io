@@ -1,9 +1,11 @@
 # Site Settings
-title:              "Blogging as Brian"
-tagline:            "Insert any very witty phrase right here..."
+title:              "Distributed Thoughts"
+tagline:            "A blog wherein Brian Dean attempts to diminish confusion and encourage understanding"
+description:        "Thoughts, technical posts, and how-to articles about anything in IT that I'm learning or want to help you learn."
 site_name:          "bthedean.github.io"
 project_url:        "https://github.com/BtheDean/bthedean.github.io"
 baseurl:            ""
+blog_url:           "https://bthedean.github.io"
 google_analytics:
 
 # About/contact
