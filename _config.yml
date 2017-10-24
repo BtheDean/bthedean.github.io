@@ -16,7 +16,11 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-github-metadata
+  - jekyll-sitemap
 
 # Build Settings
 theme: jekyll-theme-cayman
+
+exclude:
+  - Gemfile
+  - README.md
