@@ -2,6 +2,7 @@
 title:               Blogging as Brian
 description:         Insert any very witty phrase right here...
 show_downloads:      false
+is_project_page:     true
 google_analytics:
 
 markdown: kramdown
