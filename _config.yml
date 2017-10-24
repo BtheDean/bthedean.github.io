@@ -15,4 +15,7 @@ author:
 # Build Settings
 theme: jekyll-theme-cayman
 
+plugins:
+  - jekyll-seo-tag
+
 github: [metadata]
