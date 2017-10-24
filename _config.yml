@@ -1,8 +1,15 @@
 # Site Settings
+<<<<<<< HEAD
 title:               "Blogging as Brian"
 description:         "Insert a very witty phrase right here..."
 baseurl:	     ""
 show_downloads:      true
+=======
+title:               Blogging as Brian
+description:         Insert any very witty phrase right here...
+show_downloads:      false
+is_project_page:     true
+>>>>>>> 7781399a2d7e253c1f21bf20e297a5ddc65ec4fc
 google_analytics:
 
 plugins:
