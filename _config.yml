@@ -1,7 +1,7 @@
 # Site Settings
 title:               Blogging as Brian
 description:         Insert any very witty phrase right here...
-show_downloads:      false
+show_downloads:      true
 google_analytics:
 
 markdown: kramdown
