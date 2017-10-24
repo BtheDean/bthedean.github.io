@@ -1,14 +1,12 @@
 # Site Settings
-title:               Blogging as Brian
-description:         Insert any very witty phrase right here...
-show_downloads:      false
+title:               "Blogging as Brian"
+description:         "Insert a very witty phrase right here..."
+baseurl:	     ""
+show_downloads:      true
 google_analytics:
 
-markdown: kramdown
-
 plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
+ - jekyll-seo-tag
 
 # Build Settings
 theme: jekyll-theme-cayman
